@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Cấu trúc dữ liệu và giải thuật DSA/Code",
-      "program": "e:/Cấu trúc dữ liệu và giải thuật DSA/Code/build/Debug/outDebug",
+      "cwd": "e:/học kì 2/Cấu trúc dữ liệu và giải thuật DSA/Code",
+      "program": "e:/học kì 2/Cấu trúc dữ liệu và giải thuật DSA/Code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
